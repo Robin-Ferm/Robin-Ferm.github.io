@@ -42,8 +42,27 @@ Prices for a Virtual Machine:
 
 - Azure: OS Only = Average $145 per month
 - AWS EC2: Estimated $67 per month
-- Google: $7.759 per month
+- GCP: ~~$7.759 per month~~ $63 per month
+
+_Edit: Seems like I made an error, what I thought was GCPs Virtual Machine was in fact something else, hence why the price was so inflated compared to the rest. I found the new price of GCP Virtual Machines and it is a lot more reasonable._
 
 And just typing these out, my conclusion would be that I've made an error somewhere when looking up the prices or Googles option is just insane and not worth it at all. The error could be on my part since there are a lot of options (but I picked the  lowest number on everything) and different wording depending on company you're on. Also, Google seem to have fewer locations to choose from so I had to pick London, meanwhile AWS had a server in Stockholm, so looking at the price and location differences I'd pick AWS in a heartbeat, but I'd obviously have to do more research if I someday in the future needed to buy a cloud servce like this. Maybe Google offers something that AWS doesn't which I needed. 
 
+
+
 Azure seem to land somewhere in the middle between Google and AWS and since I'm a .NET developer myself I'd might have to pick and choose them even if the price is higher just because I'd be more familiar with their products and tools.
+
+
+## References
+
+[What is the cloud?](https://azure.microsoft.com/en-us/overview/what-is-the-cloud/)
+
+[Advantages and Disadvantages of Cloud Computing](https://www.tech21century.com/cloud-computing-pros-cons/#:~:text=%20Pros%20of%20Cloud%20Computing%20%201%20Accessible,%28such%20as%20storage%2C%20computing%20resources%20etc%29...%20More%20)
+
+[The Pros and Cons of Cloud Storage](https://www.uschamber.com/co/run/technology/cloud-storage-pros-and-cons)
+
+[Comparing AWS vs Azure vs Google](https://www.cloudhealthtech.com/blog/cloud-comparison-guide-glossary-aws-azure-gcp)
+
+
+
+
