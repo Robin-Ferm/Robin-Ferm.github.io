@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # What is the Cloud?
 
@@ -47,9 +47,3 @@ Prices for a Virtual Machine:
 And just typing these out, my conclusion would be that I've made an error somewhere when looking up the prices or Googles option is just insane and not worth it at all. The error could be on my part since there are a lot of options (but I picked the  lowest number on everything) and different wording depending on company you're on. Also, Google seem to have fewer locations to choose from so I had to pick London, meanwhile AWS had a server in Stockholm, so looking at the price and location differences I'd pick AWS in a heartbeat, but I'd obviously have to do more research if I someday in the future needed to buy a cloud servce like this. Maybe Google offers something that AWS doesn't which I needed. 
 
 Azure seem to land somewhere in the middle between Google and AWS and since I'm a .NET developer myself I'd might have to pick and choose them even if the price is higher just because I'd be more familiar with their products and tools.
-
-
-
-
-
-
