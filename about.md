@@ -2,9 +2,10 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+My name is Robin Ferm and I'm a student at Teknikhögskolan Göteborg.
 
 ### More Information
 
@@ -12,4 +13,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Robin.D.Ferm@gmail.com](mailto:Robin.D.Ferm@gmail.com)
