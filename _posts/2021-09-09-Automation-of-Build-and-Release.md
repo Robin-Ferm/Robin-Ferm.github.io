@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-# What is CI/CD Pipeline?
+## What is CI/CD Pipeline?
 
 CI/CD stands for **C**ontinuous **i**ntegration/**c**ontinuous **d**elivery and is a series of steps that must be performed in order to deliver a new version software.
 These steps can be different for your organization but a very common series of step would look something like this.
