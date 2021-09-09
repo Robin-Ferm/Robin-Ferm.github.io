@@ -30,17 +30,17 @@ But essentially all I did was go into github, fork an older project called Space
 At first it didn't work properly, it coulnd't find the solution file but I found a solution to that problem which was to add _'working-directory: Source'_ to line 18 and 21, and this would then locate the solution file that it needed. However, the tests doesn't go through since the actual tests are stored in a SQL database which was part of the assignment in the SpacePark project. Not really sure how to solve that one..
 But other than that I think it works.
 
-![cii.png]({{site.baseurl}}/_posts/cii.png)
+![image](https://user-images.githubusercontent.com/70013388/132777146-72b60876-e0d1-4405-b0a2-2a0c27e3a8f0.png)
 
 
 However, the tests doesn't go through since the actual tests are stored on a SQL database which was part of the assignment in the SpacePark project. Not really sure how to solve that one..
 But other than that I think it works.
 
 
-![failed.png]({{site.baseurl}}/_posts/failed.png)
+![image](https://user-images.githubusercontent.com/70013388/132777170-89e09e9b-94fd-4b83-b08d-05b2a5994c17.png)
 
 And as you can see, I explained the workflow with comments in the following picture:
-![workflow.jpg]({{site.baseurl}}/_posts/workflow.jpg)
+![image](https://user-images.githubusercontent.com/70013388/132777193-1bbb82b7-d0bd-41aa-ad78-9c17d31207e1.png)
 
   
 **References used:**
