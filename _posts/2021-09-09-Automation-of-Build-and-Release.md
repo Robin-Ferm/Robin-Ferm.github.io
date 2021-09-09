@@ -39,6 +39,8 @@ But other than that I think it works.
 
 ![failed.png]({{site.baseurl}}/_posts/failed.png)
 
+And as you can see, I explained the workflow with comments in the following picture:
+![workflow.jpg]({{site.baseurl}}/_posts/workflow.jpg)
 
   
 **References used:**
