@@ -14,7 +14,9 @@ These steps can be different for your organization but a very common series of s
 - Deply
 	 In this stage code is deployed to production.
 - Validation and compliance
-	The steps to validate a build are determined by the needs of your organization. Image security scanning 	tools, like Clair, can ensure the quality of images by comparing them to known vulnerabilities (CVEs).  
+	The steps to validate a build are determined by the needs of your organization. Image security scanning 	tools, like Clair, can ensure the quality of images by comparing them to known vulnerabilities (CVEs).
+    <br>
+    <br>
       
 
 
