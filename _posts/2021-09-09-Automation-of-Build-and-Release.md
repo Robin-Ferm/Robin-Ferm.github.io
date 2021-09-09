@@ -21,8 +21,11 @@ These steps can be different for your organization but a very common series of s
 
 
 **Tl;dr** CI is a development practice that requires developers to integrate code into a shared repository several times a day. Each check-in is then verified by an automated build, allowing teams to detect problems early.
+<br><br>
 
+**Still working on the rest of the blog..**
 
+<br><br>
 **References used:**
 
 [What is a CI/CD pipeline?](https://www.redhat.com/en/topics/devops/what-cicd-pipeline)
