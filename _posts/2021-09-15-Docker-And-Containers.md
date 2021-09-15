@@ -11,6 +11,10 @@ In Visual Studio Code I ran the command line _docker build -t simplewebhallowwor
 
 I had a lot of problem getting Docker to run my image, it kept saying it couldn't find .NET Core 3.1, and I had no idea why since I specified that we used .NET 5.0 but I finally figured out what the problem was and it was in the repository that we cloned, in the csproject file it said that we were using netcoreapp 3.1, when I changed that and saved, rebuilt and ran the image it all worked perfectly.
 
+An image of the line I had to change to 5.0 from 3.1 to get it to work properly
+![image](https://user-images.githubusercontent.com/70013388/133517861-833a0f59-300c-4eb4-9cfd-9ba04456f5fc.png)
+
+
 
 
 **Blog is being updated...**
