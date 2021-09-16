@@ -37,10 +37,10 @@ We can also see here that our image was uploaded and is now linked to our reposi
 
 ![image](https://user-images.githubusercontent.com/70013388/133531186-fd46faaa-1ede-4617-8460-0b50fd1b0ace.png)
 
+[Here is a link to the repository.](https://github.com/Robin-Ferm/SimpleWebHalloWorld)
 
-
-
-**Blog is being updated...**
+How did I create a Personal Access Token?
+Well, all I had to do was go into **Settings > Developer Settings > Personal access tokens** and there I just created a new token, and then I went into our repository again, went to **Settings > Secrets** and there I added the token I got before and created a name for it, in this case the name was SECRET_PAT which has to be the exakt name you use in your yml file later or the build will fail, I'm speaking from experience here, but trial and error fixed it and now it all works like it should.
 
 
 References:
