@@ -28,7 +28,13 @@ When creating my pipeline I first had to create a yml file with the following co
 The pipeline activates when a push is made to the master branch. What happens is that the pipeline builds a docker image which then logs in to the github container registry (ghcr). Here we use our github username and our personal access token that we've created to see if everything matches up, which (finally) it does.
 Our image is now finally pushed to my github account, I didn't really know how to make it so it was connected to the repository automatically but it was easy enough to manually attach it to our repository, which I did.
 
-*INSERT IMAGE OF PACKAGE*
+Here we can see that the workflow executed and finished without any errors.
+![image](https://user-images.githubusercontent.com/70013388/133531062-b2bf88c7-7982-4e06-a39c-b2d5cba55cab.png)
+
+
+We can also see here that our image was uploaded and is now linked to our repository.
+![image](https://user-images.githubusercontent.com/70013388/133531186-fd46faaa-1ede-4617-8460-0b50fd1b0ace.png)
+
 
 
 
