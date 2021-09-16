@@ -41,14 +41,14 @@ We can also see here that our image was uploaded and is now linked to our reposi
 [Here is a link to the repository.](https://github.com/Robin-Ferm/SimpleWebHalloWorld)
 
 How did I create a Personal Access Token?
-Well, all I had to do was go into **Settings > Developer Settings > Personal access tokens** and there I just created a new token, and then I went into our repository again, went to **Settings > Secrets** and there I added the token I got before and created a name for it, in this case the name was SECRET_PAT which has to be the exakt name you use in your yml file later or the build will fail, I'm speaking from experience here, but trial and error fixed it and now it all works like it should.
+Well, all I had to do was go into **Settings > Developer Settings > Personal access tokens** and there I just created a new token, and then I went into our repository again, went to **Settings > Secrets** and there I added the token I got before and created a name for it, in this case the name was SECRET_PAT which has to be the exakt name you use in your yml file later or the build will fail, I'm speaking from experience here, but trial and error fixed it and now it all works like it should.<br/><br/>
 
 
 **Programs I used was:**
 
 **Docker Desktop**  
 **Visual Studio Code**  
-**Github**  
+**Github**  <br/>
 
 ## References:
 
