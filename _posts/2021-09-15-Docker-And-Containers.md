@@ -36,7 +36,7 @@ Here we can see that the workflow executed and finished without any errors.
 
 We can also see here that our image was uploaded and is now linked to our repository.
 
-![image](https://user-images.githubusercontent.com/70013388/133531186-fd46faaa-1ede-4617-8460-0b50fd1b0ace.png)<<br/><br/><br/>
+![image](https://user-images.githubusercontent.com/70013388/133531186-fd46faaa-1ede-4617-8460-0b50fd1b0ace.png)<br/><br/><br/>
 
 [Here is a link to the repository.](https://github.com/Robin-Ferm/SimpleWebHalloWorld)
 
