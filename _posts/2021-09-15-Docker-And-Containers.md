@@ -21,9 +21,15 @@ An image of the line I had to change to 5.0 from 3.1 to get it to work properly
 
 ## My github pipeline
 
-When creating my pipeline I first had to create a
+When creating my pipeline I first had to create a yml file with the following content which you can see here:
 
 ![image](https://user-images.githubusercontent.com/70013388/133529664-94c37685-36d4-47a9-9ddc-2d1c3e426c61.png)
+
+The pipeline activates when a push is made to the master branch. What happens is that the pipeline builds a docker image which then logs in to the github container registry (ghcr). Here we use our github username and our personal access token that we've created to see if everything matches up, which (finally) it does.
+Our image is now finally pushed to my github account, I didn't really know how to make it so it was connected to the repository automatically but it was easy enough to manually attach it to our repository, which I did.
+
+*INSERT IMAGE OF PACKAGE*
+
 
 
 **Blog is being updated...**
