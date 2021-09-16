@@ -21,7 +21,10 @@ An image of the line I had to change to 5.0 from 3.1 to get it to work properly
 
 ## My github pipeline
 
-When creating my pipeline I first had to create a 
+When creating my pipeline I first had to create a
+
+![image](https://user-images.githubusercontent.com/70013388/133529664-94c37685-36d4-47a9-9ddc-2d1c3e426c61.png)
+
 
 **Blog is being updated...**
 
