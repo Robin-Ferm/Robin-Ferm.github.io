@@ -10,6 +10,14 @@ The short and simple answer would be that **Serverless** is a cloud-native devel
 
 The functions you write are only loaded in memory when there is a request or event for them to handle and unloaded after serving that request. They also share the same hardware and possibly the same runtime with everybody else’s functions. As a result, you generally only pay for the CPU time consumed by your functions, and not for the entire server or VM.
 
+
+
+**Blog is currently being updated and written...**
+
+
+
+
+
 References
 
 [What is Serverless?](https://quanticdev.com/articles/serverless/)
