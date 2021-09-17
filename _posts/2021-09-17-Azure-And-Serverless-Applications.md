@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## What Is Serverless And Function As A Service?
 
