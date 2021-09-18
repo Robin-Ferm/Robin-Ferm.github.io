@@ -16,6 +16,7 @@ In the picture below you can see my code for the HTTP trigger, most of the code 
 
 
 And here you can see our response code and the response message.
+
 ![image](https://user-images.githubusercontent.com/70013388/133864390-1816eda6-70ae-40bd-ac4a-cfd99235f40c.png)
 
 
