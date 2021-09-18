@@ -19,9 +19,13 @@ And here you can see our response code and the response message.
 ![image](https://user-images.githubusercontent.com/70013388/133864390-1816eda6-70ae-40bd-ac4a-cfd99235f40c.png)
 
 
+### How have I tested my application?
+
+I made the application in both the Azure web interface and with Visual Studio but I couldn't get it to work properly with Visual Studio so I copy pasted everything into the Azure Web Interface when I was done coding and ran it there and did my tests. All the basic math stuff works, we get 500 Internal Server Error if we input letters instead of numbers.
 
 
-**Blog is currently being updated and written...**
+### Are there any security risks with my application?
+Honestly.. I don't really know, since it's such a small application I'm having a hard time figuring out if there is any risk at all, there is literally no data to find anywhere, nothing is stored, no database connected. Maybe someone can spam the program with multiple requests which would shut it down or something?
 
 
 
