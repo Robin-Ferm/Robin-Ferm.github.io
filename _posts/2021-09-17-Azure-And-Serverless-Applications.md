@@ -26,7 +26,7 @@ I made the application in both the Azure web interface and with Visual Studio bu
 
 ### How did I get my application up and running?
 
-It was actually pretty simple, I logged into the [Azure Portal](https://portal.azure.com/#home) and pressed the button 'Create A Resource' and then 'Function App' with the template 'HTTP trigger'. 
+It was actually pretty simple, I logged into the [Azure Portal](https://portal.azure.com/#home) and pressed the button 'Create A Resource' and then 'Function App' with the template 'HTTP trigger'. After you've done that you'll be asked to wait a few moments, this is when the application is actually launching on the Azure servers, then you're done. You can press Code + test and start coding inside the Web UI.
 
 ### Are there any security risks with my application?
 Honestly.. I don't really know, since it's such a small application I'm having a hard time figuring out if there is any risk at all, there is literally no data to find anywhere, nothing is stored, no database connected. Maybe someone can spam the program with multiple requests which would shut it down or something?
