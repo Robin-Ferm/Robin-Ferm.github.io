@@ -10,7 +10,8 @@ The short and simple answer would be that **Serverless** is a cloud-native devel
 
 The functions you write are only loaded in memory when there is a request or event for them to handle and unloaded after serving that request. They also share the same hardware and possibly the same runtime with everybody else’s functions. As a result, you generally only pay for the CPU time consumed by your functions, and not for the entire server or VM.
 
-aaa
+In the picture below you can see my code for the HTTP trigger, most of the code comes from the template, the only lines I added were a few more strings from line 13 to 15 and then again at line 22 to 24 and after that it was a simple if statement to do the calculations depending on the input which I in this case called math for some reason. And at line 49 I added a little message and our values and sum which will be shown when the trigger is run.
+
 ![image](https://user-images.githubusercontent.com/70013388/133864380-d8b7694f-4da4-4706-af89-6fbb695b9290.png)
 
 aaa
