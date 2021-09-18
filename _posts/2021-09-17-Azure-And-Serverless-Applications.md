@@ -24,6 +24,9 @@ And here you can see our response code and the response message.
 
 I made the application in both the Azure web interface and with Visual Studio but I couldn't get it to work properly with Visual Studio so I copy pasted everything into the Azure Web Interface when I was done coding and ran it there and did my tests. All the basic math stuff works, we get 500 Internal Server Error if we input letters instead of numbers.
 
+### How did I get my application up and running?
+
+It was actually pretty simple, I logged into the [Azure Portal](https://portal.azure.com/#home)
 
 ### Are there any security risks with my application?
 Honestly.. I don't really know, since it's such a small application I'm having a hard time figuring out if there is any risk at all, there is literally no data to find anywhere, nothing is stored, no database connected. Maybe someone can spam the program with multiple requests which would shut it down or something?
