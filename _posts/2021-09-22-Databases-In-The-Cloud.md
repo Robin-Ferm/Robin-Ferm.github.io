@@ -31,15 +31,30 @@ Here is a picture of my CosmosDB item list. Don't mind the name ToDoList, I scra
 ![image](https://user-images.githubusercontent.com/70013388/135697813-005799c4-0b53-4998-a2a2-45b5ec7556cd.png)
 
 
+## How did I get it to run in Azure Functions?
+
+Well, creating the Cosmos Database was pretty simple when I followed [this tutorial](https://youtu.be/R_Fi59j6BMo)  
+However, I did run into a problem when I published my function to the cloud, it is up and running but I'm having trouble accessing it, I get a 401 error which I think has something to do with my API key. And yet again I got stuck here so what you're seeing up above is screenshots from localhost.
+I published the function using Visual Studio Code with the help of the Azure extention.
 
 
-- Beskriv kort applikationen, vad gör den?
-- Beskriv koden
-- Beskriv databasen
-- Hur har du/ni fått den att köra i Azure functions? Screenshots, scrips, pipelines
 - Hur har du tänkt runt uppdatring av databsen ifall scheman ändras? Migrations?
-- Vad skulle det kosta att driva detta? Tänk gärna två scenarier: Nästan ingen använadere och jätte jätte -mycket användere
-Använd Azure Calculator till att ta fram kostnad
+
+## Have I a plan for updating and expanding the databse?
+
+Not really, when I built the application I didn't plan for it to even be able to grow, I was just focused on it to work the way I wanted it to. 
+
+## What would it cost to run this?  
+
+well, if it's just a few users it would probably be free since there won't be many requests at all, making maybe a handful of requests each week. But if the userbase would grow it could be a lot more expensive I think, especially if their movielists were really big then the querying would take more and more RU/s.  
+
+An Azure Cosmos DB with the lowest amount of RU/S would cost $23.36 and a function with one million executions per month is $0 so.. pretty cheap. If we scale it up it obviously costs a lot more.
+
+References
 
 
-**Blog is still being written and updated...**
+
+
+
+
+
