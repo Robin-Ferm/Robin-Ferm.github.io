@@ -38,6 +38,8 @@ Well, creating the Cosmos Database was pretty simple when I followed [this tutor
 However, I did run into a problem when I published my function to the cloud, it is up and running but I'm having trouble accessing it, I get a 401 error which I think has something to do with my API key. And yet again I got stuck here so what you're seeing up above is screenshots from localhost.
 I published the function using Visual Studio Code with the help of the Azure extention.
 
+To get things to work with Cosmos DB I had to install [this nuget package](https://www.nuget.org/packages/Microsoft.Azure.WebJobs.Extensions.CosmosDB), and for my sanity I wish I had found it earlier..
+
 
 
 ## Have I a plan for updating and expanding the databse?
@@ -50,7 +52,7 @@ well, if it's just a few users it would probably be free since there won't be ma
 
 An Azure Cosmos DB with the lowest amount of RU/S would cost $23.36 and a function with one million executions per month is $0 so.. pretty cheap. If we scale it up it obviously costs a lot more.
 
-References
+## References
 
 [Azure Functions and Cosmos DB Microsoft Docs](https://docs.microsoft.com/sv-se/azure/azure-functions/functions-add-output-binding-cosmos-db-vs-code?pivots=programming-language-csharp)
 
