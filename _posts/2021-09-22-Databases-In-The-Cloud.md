@@ -8,15 +8,19 @@ Well, it's a very simple application, I had  some problems get it to work so I d
 ![image](https://user-images.githubusercontent.com/70013388/135697623-dd7353f8-b024-476d-b33c-44b724f9de2e.png)
 
 Here is my POST method.
-![image](https://user-images.githubusercontent.com/70013388/135697644-0c7418ed-f5ec-4458-8938-5c65afde6b82.png)
+![image](https://user-images.githubusercontent.com/70013388/135697644-0c7418ed-f5ec-4458-8938-5c65afde6b82.png)  
+
+You can see I'm not using my MovieModels class and that's simply because I didn't need to.. I didn't know I needed one when writing this code, and it all works like it should. You can only input two strings and if you decide to not input the second string it'll just be null. But I had to add the MovieModels class in my GET method since I couldn't get that to work, so that was the only solution I found to get it to return my database, along with a query where I select everything in the database and return it.
+
 
 Here is my GET method. There are no try and catches in either of them for now, I'm a little late with the assignment so I'll just get this done for now.  
 
 ![image](https://user-images.githubusercontent.com/70013388/135697663-c83a7ea3-9d76-4359-b752-ecfff09b2b52.png)
 
-Here is my MovieList Class  
+Here is my MovieModels Class  
 
-![image](https://user-images.githubusercontent.com/70013388/135697703-b022ad00-33a1-4809-9324-90ebc2a5f215.png)
+![image](https://user-images.githubusercontent.com/70013388/135697703-b022ad00-33a1-4809-9324-90ebc2a5f215.png)  
+
 
 Here you can see me using Postman to POST a movie into the database.  
 
