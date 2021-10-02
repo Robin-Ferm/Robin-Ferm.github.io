@@ -3,7 +3,7 @@ published: true
 ---
 ## What does the application do?
 
-Well, it's a very simple application, I had  some problems get it to work so I decided to make it as simple as possible. The only thing it does is it takes two strings and adds it to a Cosmos Database. It stores names of movies and if you've watched them or not.
+Well, it's a very simple application, I had  some problems get it to work so I decided to make it as simple as possible. The only thing it does is it takes two strings and adds it to a Cosmos Database. It stores names of movies and if you've watched them or not. Also, when I found [these](https://docs.microsoft.com/sv-se/azure/azure-functions/functions-add-output-binding-cosmos-db-vs-code?pivots=programming-language-csharp) documentations on the Microsoft page everything got a lot more smoother. I'd probably be stuck forever if I hand't stumbled upon them.
 
 ![image](https://user-images.githubusercontent.com/70013388/135697623-dd7353f8-b024-476d-b33c-44b724f9de2e.png)
 
@@ -52,7 +52,7 @@ An Azure Cosmos DB with the lowest amount of RU/S would cost $23.36 and a functi
 
 References
 
-
+[Azure Functions and Cosmos DB Microsoft Docs](https://docs.microsoft.com/sv-se/azure/azure-functions/functions-add-output-binding-cosmos-db-vs-code?pivots=programming-language-csharp)
 
 
 
