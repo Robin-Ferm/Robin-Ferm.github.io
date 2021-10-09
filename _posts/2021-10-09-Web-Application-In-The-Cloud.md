@@ -95,3 +95,14 @@ And here is a picture from my Azure Portal to show you the items we have in our 
 
 ![image](https://user-images.githubusercontent.com/70013388/136637297-c17422a0-97ad-46dd-9bfe-66f4b3a6196c.png)
 
+## How did I get it to run on Azure?
+
+Well, that was extremely simple aswell. Right click your poject in your solution explorer and select Publish, it will then guide you through the process of publishing your project to Azure. It was pretty straight forward, just make sure you're logged into your Azure account. I used Visual Studio and not Visual Studio Code to publish this app.  
+
+
+## What would it cost to run this application?
+
+For the cheapest App Service I'd have to spend $54.7 a month. For this simple application that doesn't have much use I'd say that's not really worth it, but 50 bucks a month for something like this isn't too bad either. Adding a CosmosDB with 10gb of Transactional Storage adds another $25 which would mean this whole project would cost something like $80
+
+
+
