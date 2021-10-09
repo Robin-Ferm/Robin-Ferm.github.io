@@ -14,7 +14,7 @@ I gave up  on my movielist project, which was my database from the previous lect
 
 A lot of the code is from the template when creating an ASP.NET Core Web App but I'll try to explain how it works.  
 
-Class  
+Here is our model class called Item, not much to explain really.
 ![image](https://user-images.githubusercontent.com/70013388/136636491-b7649955-7075-4304-88e6-c6b80a1574d4.png)  
 
 
@@ -89,3 +89,8 @@ Then I had to add the following method  InitializeCosmosClientInstanceAsync ino 
 ![image](https://user-images.githubusercontent.com/70013388/136636929-5fae0b83-f3b8-43f0-8717-19f30f5e53f3.png)  
 
 And like the previous project where we created our CosmosDB I had to add the appropriate values for the Primary Key and the Endpoint URI.  
+
+And here is a picture from my Azure Portal to show you the items we have in our container.  
+
+![image](https://user-images.githubusercontent.com/70013388/136637297-c17422a0-97ad-46dd-9bfe-66f4b3a6196c.png)
+
