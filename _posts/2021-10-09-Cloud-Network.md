@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## E-mail to the CTO
 
@@ -18,9 +18,3 @@ Also, the private link service itself is free, what we'd pay for is the end poin
 I remember when you and I had a drink a couple of years ago, you talked about how easy worklife would be if we had a simpler way of handling our internal network. Well, here it is!  
 
 If you have any further questions about this I'd gladly explain it to you in more detail!
-
-
-
-
-
-
