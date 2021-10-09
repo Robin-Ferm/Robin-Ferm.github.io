@@ -89,7 +89,7 @@ Then I had to add the following method  InitializeCosmosClientInstanceAsync ino 
 
 ![image](https://user-images.githubusercontent.com/70013388/136636929-5fae0b83-f3b8-43f0-8717-19f30f5e53f3.png)  
 
-And like the previous project where we created our CosmosDB I had to add the appropriate values for the Primary Key and the Endpoint URI.  
+And like the previous project where we created our CosmosDB I had to add the appropriate values for the Primary Key and the Endpoint URI to the appsettings.json file  
 
 And here is a picture from my Azure Portal to show you the items we have in our container.  
 
