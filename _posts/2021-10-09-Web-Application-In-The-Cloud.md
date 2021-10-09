@@ -14,7 +14,8 @@ I gave up  on my movielist project, which was my database from the previous lect
 
 A lot of the code is from the template when creating an ASP.NET Core Web App but I'll try to explain how it works.  
 
-Here is our model class called Item, not much to explain really.
+Here is our model class called Item, not much to explain really.  
+
 ![image](https://user-images.githubusercontent.com/70013388/136636491-b7649955-7075-4304-88e6-c6b80a1574d4.png)  
 
 
