@@ -9,3 +9,14 @@ I gave up  on my movielist project, which was my database from the previous lect
 ## What does to code do?
 
 A lot of the code is from the template when creating an ASP.NET Core Web App but I'll try to explain how it works.
+
+Class
+![image](https://user-images.githubusercontent.com/70013388/136636491-b7649955-7075-4304-88e6-c6b80a1574d4.png)
+
+
+And then there is the CosmosDbService class that I added which contains all the logic for us to connect to and use the Azure Cosmos DB. This service does the CRUD operations.
+I also created an interface called ICosmosDbService.
+
+´´´ 
+awdawdawd
+´´´
