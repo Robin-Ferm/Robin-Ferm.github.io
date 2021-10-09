@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## What does the application do?
 
@@ -9,9 +9,3 @@ I gave up  on my movielist project, which was my database from the previous lect
 ## What does to code do?
 
 A lot of the code is from the template when creating an ASP.NET Core Web App but I'll try to explain how it works.
-
-
-
-
-
-
