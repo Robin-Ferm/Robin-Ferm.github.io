@@ -12,3 +12,10 @@ An image of what my console looks like when the process is complete.
 An image of what my blob container looks like on the Azure portal.  
 ![image](https://user-images.githubusercontent.com/70013388/136730998-abf782d1-4431-4316-be91-808dfe283178.png)  
 
+## Diagram describing dataflow 
+
+Ugh.. I hate making these, i'll do it last.
+
+## What does the code do?
+
+stuff
