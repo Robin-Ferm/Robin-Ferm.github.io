@@ -31,4 +31,6 @@ And then I created the method **GetFiles** which takes one parameter that will b
 The method **Upload**, like you might've guessed, uploads the files to our Azure blob storage. The method has three parameters which are the files that will be uploaded, the connectionstring and container name.
 And then we create an instance of the BlobContainerClient class which allows us to manipulate the Azure storage container and its blobs. I use a foreach loop to iterate over every file that we upload and write out the appropriate message for each file.
 
-(insert picture of Upload method)
+(insert picture of Upload method)  
+
+
