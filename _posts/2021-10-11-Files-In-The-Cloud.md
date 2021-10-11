@@ -18,4 +18,17 @@ Ugh.. I hate making these, i'll do it last.
 
 ## What does the code do?
 
-First of all, I followed a pretty great youtube tutorial that you can see here.
+First of all, I followed a pretty great youtube tutorial that you can see [here](https://youtu.be/JZWaWAU548g). He goes through pretty much everything I was to do in the assigment.
+
+I started off with creating the method **GetConfiguration** which uses the **ConfigurationBulder class** and this method simply reads the connectionstring, container name and path to the folder with our images we want to upload. 
+
+(insert picture of config file and method)  
+
+And then I created the method **GetFiles** which takes one parameter that will be the path to the folder with the files we want to upload.
+
+(insert picture of GetFiles method)  
+
+The method **Upload**, like you might've guessed, uploads the files to our Azure blob storage. The method has three parameters which are the files that will be uploaded, the connectionstring and container name.
+And then we create an instance of the BlobContainerClient class which allows us to manipulate the Azure storage container and its blobs. I use a foreach loop to iterate over every file that we upload and write out the appropriate message for each file.
+
+(insert picture of Upload method)
