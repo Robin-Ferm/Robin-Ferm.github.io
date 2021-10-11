@@ -42,3 +42,10 @@ And then we create an instance of the BlobContainerClient class which allows us 
 This is what our main method looks like when everything is done.  
 ![image](https://user-images.githubusercontent.com/70013388/136733449-2f9edbba-7bdf-459d-b628-dfe725324a8a.png)  
 
+## What would the cost of the application be?
+
+If our program was used by 1000 users who each upload 100MB each day we would need 36500GB of storage for exactly one year. So my pricing calculations are based on one ears worth of storage. Just for that storage the cost would be around $803. I'm not sure how much it would cost if we had our users download all the pictures three times per day since Azures Caluclator keeps telling me it's $0, but it max out at 5000GB, the price doesn't change so I have no idea how much that would cost.
+
+## How does Microsoft secure our blob data?
+
+Microsoft is kind enough (well, maybe not kind, I guess it would be a pretty shitty PR storm if they had a data breach and nothing was encrypted) to encrypt all the data on your Azure Blob that you've uploaded to a disk and then they decrypt i t whenever you want to access it. And to prevent the data to be intercepted when data is being transferred over the open internet to and from the cloud storage they alos encrypt all the data using the **Transport Layer Security protocol** and **Forward Secrecy**.
