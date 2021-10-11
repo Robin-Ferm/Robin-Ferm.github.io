@@ -18,4 +18,4 @@ Ugh.. I hate making these, i'll do it last.
 
 ## What does the code do?
 
-stuff
+First of all, I followed a pretty great youtube tutorial that you can see here.
