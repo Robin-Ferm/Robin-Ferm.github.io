@@ -25,7 +25,7 @@ I started off with creating the method **GetConfiguration** which uses the **Con
 Config file.  
 ![image](https://user-images.githubusercontent.com/70013388/136733061-7eecf0d2-ed34-4040-aa4b-dde1eb1adf59.png)  
 
-GetConfig Method  
+GetConfiguration Method  
 ![image](https://user-images.githubusercontent.com/70013388/136733093-338cfb01-8fff-480a-95e1-f2c02cdcfb83.png)
 
 
