@@ -14,7 +14,9 @@ An image of what my blob container looks like on the Azure portal.
 
 ## Diagram describing dataflow 
 
-Ugh.. I hate making these, i'll do it last.
+Not the best diagram.. I'm terrible at these but I think this is how it all works.  
+
+![image](https://user-images.githubusercontent.com/70013388/136736250-c2f6fbea-ca2c-45f8-8bae-05aa079ed9dd.png)
 
 ## What does the code do?
 
