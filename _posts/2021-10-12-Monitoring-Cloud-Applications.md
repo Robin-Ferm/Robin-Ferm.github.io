@@ -10,3 +10,5 @@ published: true
 ## Describe how logging can help you with security in your application  
 
 ## Explain your queries
+
+qwerty
