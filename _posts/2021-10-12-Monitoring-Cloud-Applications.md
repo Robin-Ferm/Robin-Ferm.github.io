@@ -3,11 +3,9 @@ published: true
 ---
 ## What does the application do?  
 
-Well, the application does what it did in lecture 6, it's a To-Do list, but this time around it also logs everytging that is happening.
+Well, the application does what it did in lecture 6, it's a To-Do list, but this time around it also logs everything that is happening via our Application Insight on Azure.
+There wasn't much code needed to get it to run really, a few simple lines here and there. I guess I could've done more with it but im behind schedule so I'm just trying to get it to work properly.  
 
-## Diagram  
-
-(insert boring diagram here)
 
 ## What does the code do?  
 
