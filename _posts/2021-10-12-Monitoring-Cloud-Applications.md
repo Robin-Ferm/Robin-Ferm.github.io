@@ -34,6 +34,10 @@ I added UseSerilog() here
 
 ## Describe how logging can help you with security in your application  
 
+There are many security benefits of logging, for example, Azure offers a way for you to get alerts with your own alert rules that you've set with different conditions.
+Logging user actions can also help you improve your security in lots of ways because it provides a way for the administrators to reconstruct events, detect intrusions and analyze problems such a s poor performance or unexpected system behavior. 
+
+
 ## Explain your queries
 
 This query shows how many requests is from a specific city on a specific day.  
