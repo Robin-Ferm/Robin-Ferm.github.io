@@ -28,6 +28,10 @@ Simple example of how I added a message when CreateAsync() is called.
 
 ![image](https://user-images.githubusercontent.com/70013388/136941597-0c7b14f7-0077-497d-a0e0-1f9a677dfb72.png)
 
+I added UseSerilog() here  
+
+![image](https://user-images.githubusercontent.com/70013388/136943028-c3a0154e-a108-470e-b6b7-097b3331e077.png)
+
 
 
 ## Describe how logging can help you with security in your application  
