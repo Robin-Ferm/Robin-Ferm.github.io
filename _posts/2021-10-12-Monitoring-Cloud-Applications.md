@@ -11,6 +11,16 @@ Well, the application does what it did in lecture 6, it's a To-Do list, but this
 
 ## What does the code do?  
 
+ConfigureLogger Method
+![image](https://user-images.githubusercontent.com/70013388/136940756-fcbebc52-c807-4967-b821-fae1505d304d.png)  
+
+main method
+![image](https://user-images.githubusercontent.com/70013388/136940830-6c0bb3f0-c831-4e88-8837-dbf099cf9736.png)  
+
+
+Simple example of how I added a message when CreateAsync() is called.
+![image](https://user-images.githubusercontent.com/70013388/136941597-0c7b14f7-0077-497d-a0e0-1f9a677dfb72.png)
+
 
 
 ## Describe how logging can help you with security in your application  
