@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## What does the application do?  
 
@@ -9,5 +9,4 @@ published: false
 
 ## Describe how logging can help you with security in your application  
 
-## Explain your queries  
-
+## Explain your queries
