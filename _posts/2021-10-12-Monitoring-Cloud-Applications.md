@@ -14,7 +14,7 @@ Well, the application does what it did in lecture 6, it's a To-Do list, but this
 ConfigureLogger Method
 ![image](https://user-images.githubusercontent.com/70013388/136940756-fcbebc52-c807-4967-b821-fae1505d304d.png)  
 
-main method
+main method  
 ![image](https://user-images.githubusercontent.com/70013388/136940830-6c0bb3f0-c831-4e88-8837-dbf099cf9736.png)  
 
 
