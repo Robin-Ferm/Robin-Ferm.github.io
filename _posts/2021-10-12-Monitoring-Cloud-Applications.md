@@ -13,7 +13,8 @@ ConfigureLogger Method
 
 ![image](https://user-images.githubusercontent.com/70013388/136940756-fcbebc52-c807-4967-b821-fae1505d304d.png)  
 
-I created a static method that will overwrite the default logging.
+I created a static method that will overwrite the default logging. And here we tell Serilog where to write our logs, and in this case it is to our ApplicationInsight on Azure.
+I decided no to write to the console or a file in this case.
 
 Main Method  
 
