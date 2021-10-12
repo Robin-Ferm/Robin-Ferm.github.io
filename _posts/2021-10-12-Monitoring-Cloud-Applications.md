@@ -12,13 +12,20 @@ Well, the application does what it did in lecture 6, it's a To-Do list, but this
 ## What does the code do?  
 
 ConfigureLogger Method
+
 ![image](https://user-images.githubusercontent.com/70013388/136940756-fcbebc52-c807-4967-b821-fae1505d304d.png)  
 
-main method  
+I created a static method that will overwrite the default logging.
+
+Main Method  
+
 ![image](https://user-images.githubusercontent.com/70013388/136940830-6c0bb3f0-c831-4e88-8837-dbf099cf9736.png)  
+
+In the Main Method we call our ConfigureLogger Method to run on startup. We also log a simple message showing that we've started the program.
 
 
 Simple example of how I added a message when CreateAsync() is called.
+
 ![image](https://user-images.githubusercontent.com/70013388/136941597-0c7b14f7-0077-497d-a0e0-1f9a677dfb72.png)
 
 
